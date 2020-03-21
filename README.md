@@ -21,8 +21,8 @@
   - Tests Pages status codes, correct templating, models
   
 - Articles App
- - Article and Comment model
- - Article CRUD views
+  - Article and Comment model
+  - Article CRUD views
  
  ### Future Work :
  - OAuth integration using django-allauth pthon package
